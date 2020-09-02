@@ -9,5 +9,6 @@ package com.xyy.flyway.flyway.controller;
 public class Test {
     public static void main(String[] args) {
         System.out.println("htht");
+        System.out.println("123");
     }
 }
